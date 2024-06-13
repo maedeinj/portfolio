@@ -1,0 +1,15 @@
+
+*{
+    font-family: Fontone;
+}
+h1{
+    font-weight: 500;
+}
+.paragraph{
+    margin-top: 25px;
+}
+.first-letter {
+    font-size: 35px;
+    font-weight: bold; /* Optionally, you can make the first letter bold */
+    
+}
